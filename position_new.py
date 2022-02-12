@@ -2,6 +2,7 @@
 import pyautogui
 import time
 
+# este programa ja foi transformado em um arquivo .exe usando pyinstaller
 
 print('='*30)
 print('VER POSITION X, Y DO MOUSE')
